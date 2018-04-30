@@ -1,0 +1,12 @@
+Game of chess in C++, best if played in terminal. First demo, not fully working. 
+
+Things to fix: 
+1. Show a-h at the bottom and numbers on the side of the board 
+1. Pawns can take a piece in front of themselves, shouldn't be able to 
+1. Pawn can always move forward 2 spaces, should only be able to do once
+1. Pawn should only be allowed to move sideways/diagonally if an opposing piece is there
+2. check if either player lost a king 
+3. show what piece a player lost 
+4. Include knighting 
+5. Include get new piece if a pawn gets to the other side 
+6. Add an undo method 
